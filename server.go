@@ -22,3 +22,12 @@ func genTimeJSON() string {
 
 	return string(res)
 }
+
+func printTime(res http.ResponseWriter, req *http.Request) {
+	fmt.Fprintf(res, genTimeJSON())
+}
+
+func main() {
+	http.HandleFunc("/time", printTime)
+	log.Fatal(http.ListenAndServe(":8795", nil))
+}
