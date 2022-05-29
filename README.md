@@ -3,3 +3,4 @@
 ## Developers 
 
 Danil Bialyi,
+Yaroshchuk Vladyslav,
