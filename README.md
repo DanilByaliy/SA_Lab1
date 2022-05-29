@@ -2,4 +2,4 @@
 
 ## Developers 
 
-Danil Bialyi
+Danil Bialyi,
