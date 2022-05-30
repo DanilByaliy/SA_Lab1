@@ -1,5 +1,5 @@
 # SA_Lab1
-## Team members 
+## Our team
 
 Danil Bialyi,
 Yaroshchuk Vladyslav,
