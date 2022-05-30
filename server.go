@@ -31,3 +31,5 @@ func main() {
 	http.HandleFunc("/time", printTime)
 	log.Fatal(http.ListenAndServe(":8795", nil))
 }
+
+// simple server
