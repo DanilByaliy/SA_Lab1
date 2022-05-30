@@ -1,6 +1,5 @@
 # SA_Lab1
-
-## Developers 
+## Team members 
 
 Danil Bialyi,
 Yaroshchuk Vladyslav,
